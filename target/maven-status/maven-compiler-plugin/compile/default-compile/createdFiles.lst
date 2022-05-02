@@ -1,0 +1,5 @@
+cn\bakuman\redissionlock\config\BakumanAutoConfiguration.class
+cn\bakuman\redissionlock\enums\LockTypeEnum.class
+cn\bakuman\redissionlock\utils\SpELParserUtils.class
+cn\bakuman\redissionlock\annotation\BKMLock.class
+cn\bakuman\redissionlock\aspect\LockAspect.class
